@@ -21,7 +21,7 @@ flasher
 version.c
 lua
 luac
-
+devkitARM
 fpga/*
 !fpga/tests
 !fpga/fpga_lf.bit
