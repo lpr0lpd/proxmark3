@@ -33,5 +33,5 @@ fpga/*
 !fpga/xst_hf.scr
 !fpga/go.bat
 !fpga/sim.tcl
-
+client/fpga_compress
 
