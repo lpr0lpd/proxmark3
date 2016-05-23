@@ -1,3 +1,4 @@
 export DEVKITPRO=$HOME/proxmark3/
 export DEVKITARM=$DEVKITPRO/devkitARM
 export PATH=${PATH}:${DEVKITARM}/bin
+export PKG_CONFIG_PATH=/opt/local/libexec/qt4/lib/pkgconfig/:$PKG_CONFIG_PATH
